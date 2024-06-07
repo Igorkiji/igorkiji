@@ -1,16 +1,18 @@
-## Hi there 👋
+Boas vindas ao meu perfil 🦩
 
-<!--
-**Igorkiji/igorkiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Igor Daniel
 
-Here are some ideas to get you started:
+Estou estudando na Alura
 
-- 🔭 I’m currently working on Alura
-- 🌱 I’m currently learning programing
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+alurastartestudante@email.com
+
+
+@alurastartestudante
+
+![](https://i.gifer.com/origin/51/51838d063722526bccd4ac3f5500535b_w200.gif)
